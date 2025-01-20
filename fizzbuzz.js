@@ -4,6 +4,7 @@
 function fizzbuzz() {
     
     console.log('Welcome to FizzBuzz!');
+    console.log('Hello World!');
 
     // Put your code here...
 
@@ -12,3 +13,4 @@ function fizzbuzz() {
 
 // Now we run the main function...
 fizzbuzz();
+
